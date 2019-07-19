@@ -1,13 +1,14 @@
 ---
 title: "DSC Committee"
 date: 2019-01-29T11:02:05+06:00
+weight: 2
 type: "post"
 author: "gaelcolas"
 ---
 
 Here's an explanation of what the DSC Committee is attempting to help with, and how we're trying to help the community.
 
-[Come and chat to us](http://slack.poshcode.org) if you'd like to discuss how we can improve!
+[Come and chat with us](/community/contact/) if you'd like to discuss how we can improve!
 
 ## The Decision Process
 
